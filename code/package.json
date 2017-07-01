@@ -1,0 +1,11 @@
+{"name": "vue-qlcode",
+  "version": "0.0.3",
+  "description": "A Vue component to code",
+  "author": "ql",
+  "private": false,
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wj704/vue-marquee-ho.git"
+  }
+}
