@@ -1,11 +1,11 @@
 {"name": "vue-qlcode",
-  "version": "0.0.3",
-  "description": "A Vue component to code",
+  "version": "0.0.4",
+  "description": "Vue-QL 组件系列之--------二维码",
   "author": "ql",
   "private": false,
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wj704/vue-marquee-ho.git"
+    "url": "git+https://github.com/qlaiqyc/Vue-ql/tree/master/code"
   }
 }
