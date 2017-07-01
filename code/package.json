@@ -1,6 +1,6 @@
 {"name": "vue-qlcode",
-  "version": "0.0.4",
-  "description": "Vue-QL 组件系列之--------二维码",
+  "version": "0.0.41",
+  "description": "Vue-QL 组件系列之--------二维码（基于 QRCode.js）",
   "author": "ql",
   "private": false,
   "license": "MIT",
